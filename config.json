@@ -1,20 +1,21 @@
 {
     "app_id": "wxcb2de405fe61d0fd",
     "app_secret": "604acd32e5a3d34e9eabc697f5bd96c7",
-    "template_id": "bVu0Wtr8RPVIuEQ9SgPRs4ST1GUt6JwzlIPrcATC0pk",
+    "template_id": "Sg5l77Wax95qZpfTaU_g6CCQGKAT5rMVPgScbiv1-XU",
     "user": [
-        "o17VF6JautUTuA5Z3ou0arZ1AY3k"
+        "o17VF6JautUTuA5Z3ou0arZ1AY3k",
+        "o17VF6EyyL3Kljo8lHHUVI6SRYTA"
     ],
     "province": "云南",
     "city": "普洱",
-    "birthday1": "2022-07-31",
-    "birthday2": "1991-05-15",
+    "birthday1": "2022-12-31",
+    "birthday2": "2023-01-21",
     "love_date": "2022-07-31",
     "Whether_Eng": "false",
     "Whether_caihongpi": false,
-    "Whether_lizhi": true,
+    "Whether_lizhi": false,
     "Whether_tip": false,
-    "Whether_health": false,
+    "Whether_health": true,
     "Whether_lucky": true,
     "tianxing_API": "8c3a2ca6cb5e1fe02cca7ed98e50d6a5",
     "astro": "处女座"
